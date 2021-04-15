@@ -1,0 +1,11 @@
+body{
+  background-color: cyan;
+  font-family: fantasy;
+  font-weight: 20px;
+}
+li{
+  width: 250px;
+  height: 150px;
+  background-color: pink;
+  margin:10px;
+}

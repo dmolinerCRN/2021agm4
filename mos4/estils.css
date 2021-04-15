@@ -1,0 +1,43 @@
+body{
+  background-color: cyan;
+  margin:0px;
+}
+div{
+  width:200px;
+  height:200px;
+  margin: 15px;
+  float: left;
+  background-image: url(img/keanu.jpg);
+  background-size: contain;
+  text-indent: 160px;
+  line-height: 350px;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: bold;
+  -webkit-text-stroke: 2px green;
+  color: black;
+}
+#boton{
+  background-color: red;
+  background-image: none;
+  font-size: 15px;
+  line-height: inherit;
+  text-indent: inherit;
+  -webkit-text-stroke: 0px;
+  border-radius: 100px;
+  text-align: center;
+  line-height: 200px;
+  float: right;
+  position: fixed;
+  right: 30px;
+  bottom:30px;
+}
+a:active{
+
+}
+a:link{
+  text-decoration: none;
+}
+a:visited{
+  color: green;
+}
